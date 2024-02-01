@@ -54,7 +54,7 @@ def main():
             "The result is promptly displayed, indicating whether the input text is classified as spam or not. "
             "Streamlining the process, our user-friendly interface ensures efficient spam detection with ease."
         )
-        st.write("[Learn More about this project >](https://pythonandvba.com)")
+        st.write("[Learn More about this project >](https://github.com/Aparajita-singh/sms-spam-classifier)")
 
     # ---- CLASSIFIER ----
     with st.container():
